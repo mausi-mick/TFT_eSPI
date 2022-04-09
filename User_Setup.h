@@ -54,7 +54,7 @@
 // The ESP8366 and ESP32 have plenty of memory so commenting out fonts is not
 // normally necessary. If all fonts are loaded the extra FLASH space required is
 // about 17Kbytes. To save FLASH space only enable the fonts you need!
-
+/*
 #define LOAD_GLCD   // Font 1. Original Adafruit 8 pixel font needs ~1820 bytes in FLASH
 #define LOAD_FONT2  // Font 2. Small 16 pixel high font, needs ~3534 bytes in FLASH, 96 characters
 #define LOAD_FONT4  // Font 4. Medium 26 pixel high font, needs ~5848 bytes in FLASH, 96 characters
@@ -68,7 +68,7 @@
 // this will save ~20kbytes of FLASH
 #define SMOOTH_FONT
 
-
+*/
 // ##################################################################################
 //
 // Section 4. Other options
