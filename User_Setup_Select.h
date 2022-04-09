@@ -21,9 +21,9 @@
 
 #include <User_Setup.h>           // Default setup is root library folder
 
-#include <User_Setups/Setup1_ILI9341.h>  // Setup file configured for my ILI9341
+//#include <User_Setups/Setup1_ILI9341.h>  // Setup file configured for my ILI9341
 
-
+#include <Setup1_ILI9341.h>  // Setup file configured for my ILI9341
 
 #endif // USER_SETUP_LOADED
 
